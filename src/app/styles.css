@@ -1,0 +1,15 @@
+h4 {
+    text-align: center;
+}
+.example {
+    width: 500px;
+    height: 490px;
+    margin: 0 auto;
+}
+.kendoka {
+    margin: 0 auto;
+    width: 500px;
+    height: 500px;
+    background-size: cover;
+    background-image: url('https://www.telerik.com/kendo-angular-ui-develop/components/inputs/colorpicker/assets/kendoka.png');
+}
